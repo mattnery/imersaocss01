@@ -20,11 +20,7 @@ body{
     color: whitesmoke;
   }
 
-.img-portfolio{
-    height: 180px;
-    width: 180px;
-  }
-  
+
 .menu{
     background-color: grey;
   }
@@ -45,3 +41,9 @@ body{
 .site-subtitle{
     text-align: center;
   }
+
+.img-portfolio{
+  height: 180px;
+  width: 180px;
+  }
+  
