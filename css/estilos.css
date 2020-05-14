@@ -1,10 +1,13 @@
 *{
    margin: 0;
    padding: 0; 
-}
+   
+  }
+
 
 a{
     text-decoration: none;
+    color: yellow;
   }
   
 a:hover{
@@ -15,6 +18,11 @@ body{
     background-image: url('https://cdn.wallpapersafari.com/41/62/i8RVNg.jpg');
     font-family: trajan pro;
     color: whitesmoke;
+  }
+
+.img-portfolio{
+    height: 180px;
+    width: 180px;
   }
   
 .menu{
